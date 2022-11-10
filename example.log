@@ -1,0 +1,9 @@
+DEBUG:2022/11/04 11:52:56 AM This message should go to the log file
+INFO:2022/11/04 11:52:56 AM So should this
+WARNING:2022/11/04 11:52:56 AM And this, too
+ERROR:2022/11/04 11:52:56 AM And non-ASCII stuff, too, like Øresund and Malmö
+DEBUG:2022/11/04 11:52:56 AM This message should appear on the console
+INFO:2022/11/04 11:52:57 AM So should this
+WARNING:2022/11/04 11:52:57 AM And this, too
+WARNING:2022/11/04 11:52:57 AM 123
+ERROR:2022/11/04 11:52:57 AM 456
